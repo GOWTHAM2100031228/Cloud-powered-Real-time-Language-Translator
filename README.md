@@ -26,7 +26,7 @@ Copy code
 pip install -r requirements.txt  
 Set up your Google Gemini API Key:
 
-Replace "AIzaSyARDioN7K6bBm-2e01-CKB77XOacyd8dAs" with your API key in the code.
+Replace "YOUR-API-KEY" with your API key in the code.
 Usage
 Run the script:
 
